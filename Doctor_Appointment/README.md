@@ -71,16 +71,4 @@ In healthcare, efficient appointment scheduling is crucial to ensure patients re
 
 - The AI model is continuously refined based on feedback and data analysis, ensuring improved scheduling accuracy over time.
 
-## Contributors
 
-Contributions to this project are.
-- [Aarsh Saxena](https://github.com/aarshsaxena) : 21bec001
-- [Kulkul Singh](https://github.com/Techkulkul) : 22bcs047
-- [Pranav Kumar Kanth](https://github.com/pranavkanth) : 22bcs063
-- [Tanisha Pargal](https://github.com/TanishaPargal) : 21bcs094
-
-Mentor : [Snahal Kumar](https://github.com/snahal04) : 20bec081
-
-Please open an issue or create a pull request to discuss and contribute.
-___
----
